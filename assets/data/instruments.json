@@ -1,0 +1,319 @@
+{
+    "clavier": [
+        {
+            "id": 1,
+            "original_title": "Arturia MiniLab MKII",
+            "second_title": "Clavier MIDI 25 touches",
+            "description": "25 mini touches avec vélocité, Inclus: licence du logiciel Analog Lab Lite avec plus de 500 sons de la collection V-Collection 5 Quality, logiciels Ableton Live Lite et UVI Grand Piano (logiciels à télécharger depuis internet sur le site fabricant)",
+            "product_poster": "https://img.audiofanzine.com/images/u/product/normal/arturia-minilab-mkii-257026.jpg",
+            "product_price": "119 €",
+            "vote_average": 8.5
+        },
+        {
+            "id": 2,
+            "original_title": "AKAI Professional MPK Mini MK3",
+            "second_title": "Clavier MIDI 25 touches",
+            "description": "25 touches miniatures sensibles à la vélocité, 8 pads MPC avec fonctions Note Repeat & Full Level Pack de logiciels (téléchargements) incl.: MPC Beats, 6 instruments virtuels (Bassline, Tubesynth, Electric, Hybrid 3, Mini Grand, Velvet) et 2 GB de contenu sonore",
+            "product_poster": "https://www.woodbrass.com/images/woodbrass/AKAI+MPK+MINI+MK3.JPG",
+            "product_price": "83 €",
+            "vote_average": 8.0
+        },
+        {
+            "id": 3,
+            "original_title": "Novation Launchkey Mini MK3",
+            "second_title": "25-Key USB Mini Keyboard",
+            "description": "Optimisé pour contrôler Ableton Live 16 pads RVB sensibles à la vélocité Boutons pour l'enregistrement, la lecture, l'arrêt/solo/muet et la commutation d'octave ",
+            "product_poster": "https://cdn.mos.cms.futurecdn.net/ba908f2c1c053f16f638e5e96e20a391.jpg",
+            "product_price": "88 €",
+            "vote_average": 9.0
+        },
+        {
+            "id": 4,
+            "original_title": "Native Instruments Komplete Kontrol A25",
+            "second_title": "Clavier MIDI 25 touches",
+            "description": " 25 touches semi-lestées, Encodeur Push 4D Contrôles de Logic ProX, Ableton Live, Prp Tools (à partir d'octobre 2021), Garage Band, Cubase et Nuendo / Intégration avec le matériel/logiciel Maschine",
+            "product_poster": "https://www.stars-music.fr/medias/native-instruments/komplete-kontrol-a25-hd-150662.jpg",
+            "product_price": "140 €",
+            "vote_average": 9.5
+        },
+        {
+            "id": 5,
+            "original_title": "AKAI Professional MPK 225",
+            "second_title": "Clavier MIDI 25 touches",
+            "description": "25 touches semi-lestées Logiciels incl. (téléchargement): Ableton Live Lite, SONiVOX Twist 2.0 et Akai Pro MPC Essentials 8 pads MPC avec éclairage RGB",
+            "product_poster": "https://medias.audiofanzine.com/images/normal/akai-professional-mpk225-3897199.jpg",
+            "product_price": "245 €",
+            "vote_average": 10
+        },
+        {
+            "id": 6,
+            "original_title": "AKAI Professional MPK 249",
+            "second_title": "Clavier MIDI 49 touches",
+            "description": "49 semi-lestées 16 pads MPC avec éclairage RGB",
+            "software": "Logiciels inclus (téléchargements): Ableton Live Lite, Hybrid 3 by AIR Music Tech, SONiVOX Twist 2.0 et MPC Beats",
+            "product_poster": "https://img.audiofanzine.com/images/u/product/normal/arturia-minilab-mkii-257026.jpg",
+            "product_price": "325 €",
+            "vote_average": 8.5
+        },
+        {
+            "id": 7,
+            "original_title": "M-Audio Oxygen Pro 49",
+            "second_title": "Clavier MIDI 49 touches",
+            "description": "49 touches semi-lestées sensibles à la vélocité avec aftertouch et zones assignables 16 pads RGB rétroéclairés, assignables et sensibles à la vélocité",
+            "software": "Pack de logiciels Pro Tools First (M-Audio Edition), MPC Beats & Ableton Live Lite incl. (téléchargements)",
+            "product_poster": "https://www.woodbrass.com/images/woodbrass/AKAI+MPK+MINI+MK3.JPG",
+            "product_price": "195 €",
+            "vote_average": 8.0
+        },
+        {
+            "id": 8,
+            "original_title": "Arturia KeyLab Essential 49",
+            "second_title": "49 touches sensibles à la vélocité 8 pads sensibles à la vélocité avec Aftertouch",
+            "description": "8 pads sensibles à la vélocité avec Aftertouch ",
+            "product_poster": "https://www.musik-produktiv.fr/pic-010121212xxl/arturia-keylab-essential-49.jpg",
+            "software": "Logiciel Arturia Analog Lab, licence de téléchargement Ableton Live Lite et licence de téléchargement UVI Grand Piano incl.",
+            "product_price": "177 €",
+            "vote_average": 9.0
+        },
+        {
+            "id": 9,
+            "original_title": "Native Instruments Komplete Kontrol A49",
+            "second_title": "Clavier MIDI 49 touches",
+            "description": "Clavier semi-lourd nouvellement développé avec 49 touches, Molettes de pitch et de modulation",
+            "software": "Contrôle de Logic ProX, Ableton Live, Garage Band, Pro Tools (à partir de 2021.10), Cubase et Nuendo",
+            "product_poster": "https://img.kytary.com/eshop_fr/velky_v2/na/636809215076970000/76471fe1/64619513/native-instruments-komplete-kontrol-a49-deballe.jpg",
+            "product_price": "140 €",
+            "vote_average": 9.5
+        },
+        {
+            "id": 10,
+            "original_title": "AKAI Professional MPK 249 Black",
+            "second_title": "Clavier MIDI 49 touches",
+            "description": "49 semi-lestées 16 pads MPC avec éclairage RGB 8 potentiomètres assignables Ecran LCD rétroéclairé",
+            "software": "Logiciels inclus (téléchargements): Ableton Live Lite, Hybrid 3 by AIR Music Tech, SONiVOX Twist 2.0, Akai Pro MPC Essentials",
+            "product_poster": "https://medias.audiofanzine.com/images/normal/akai-professional-mpk225-3897199.jpg",
+            "product_price": "344 €",
+            "vote_average": 10
+        }
+    ],
+
+    "boiteRythme": [
+        {
+            "id": 11,
+            "original_title": "Elektron Analog Rytm MKII Black",
+            "second_title": "8 voix de batterie",
+            "description": "Distorsion analogique et effet maître du compresseur",
+            "product_poster": "https://img.audiofanzine.com/images/u/product/normal/elektron-analog-rytm-203006.jpg",
+            "product_price": "1.499 €",
+            "vote_average": 8.5
+        },
+        {
+            "id": 12,
+            "original_title": "Arturia DrumBrute Impact",
+            "second_title": "10 sons: Kick, Snare 1, Snare 2, Tom Hi, Tom Low, Cowbell, Cymbal, Closed Hat, Open Hat",
+            "description": "Accentuation et coloration des couleurs sonores commutables par instrument et par pas",
+            "product_poster": "https://img.audiofanzine.com/images/u/product/normal/arturia-drumbrute-impact-272315.jpg",
+            "product_price": "259 €",
+            "vote_average": 6.5
+        },
+        {
+            "id": 13,
+            "original_title": "Clavia Nord Drum 3P",
+            "second_title": "Modélisation synthétiseur de percussion",
+            "description": "Bibliothèques sonore personnalisée prédéfinies pour grosses caisses, caisses claires, toms et plus - 8 banques avec 50 programmes par bibliothèque",
+            "product_poster": "https://images.musicstore.de/images/1280/clavia-nord-drum-3p_1_DRU0034623-000.jpg",
+            "product_price": "595 €",
+            "vote_average": 9.0
+        },
+        {
+            "id": 14,
+            "original_title": "Native Instruments Maschine +",
+            "second_title": "16 pads sensibles à la vélocité",
+            "description": "Effets Maschine et plug-ins, swing, pad link, note repeat, step sequencer et émulation de sampler vintage",
+            "product_poster": "https://www.stars-music.fr/medias/native-instruments/maschine-hd-2-172280.png",
+            "product_price": "999 €",
+            "vote_average": 9.0
+        },
+        {
+            "id": 15,
+            "original_title": "Native Instruments Maschine Mikro MK3",
+            "second_title": "Se compose d'un contrôleur USB et d'un logiciel machine 16 pads",
+            "description": "Fonctions Groovebox : 16 niveaux de vélocité, Swing, Pad Link, Note Repeat, ainsi que l'émulation d'échantillonnage MPC 60 et SP-1200, importation de fichiers REX2 et de programmes MPC, exportation MIDI et audio par glisser-déposer",
+            "product_poster": "https://www.stars-music.fr/medias/native-instruments/maschine-hd-2-172280.png",
+            "product_price": "215 €",
+            "vote_average": 9.5
+        }
+    ],
+
+    "batterie": [
+        {
+            "id": 16,
+            "original_title": "Pearl Decade Maple 6pc Red Burst",
+            "second_title": "Batterie Acoustique",
+            "description": "",
+            "product_poster": "https://d1aeri3ty3izns.cloudfront.net/media/59/591130/1200/preview.jpg",
+            "product_price": "1.499 €",
+            "vote_average": 7.5
+        },
+        {
+            "id": 17,
+            "original_title": "Yamaha Stage Custom Studio -RB Bundle",
+            "second_title": "Batterie Acoustique",
+            "description": "",
+            "product_poster": "https://www.stars-music.com/medias/yamaha/stage-custom-birch-10-12-16-22-matte-black-hd-60993.jpg",
+            "product_price": "1.148 €",
+            "vote_average": 8.0
+        },
+        {
+            "id": 18,
+            "original_title": "Millenium MPS-850 E-Drum Set",
+            "second_title": "Batterie électronique",
+            "description": "Module de batterie avec 20 préréglages et 20 kits utilisateur 697 sons 55 chansons Égaliseur 4 bandes",
+            "product_poster": "https://thumbs.static-thomann.de/thumb/thumb600x600/pics/bdb/428224/16698464_800.jpg",
+            "product_price": "498 €",
+            "vote_average": 6.5
+        },
+        {
+            "id": 19,
+            "original_title": "Roland VAD706-GC E-Drum Set",
+            "second_title": "Batterie électronique",
+            "description": "Ensemble matériel composé de 2 pieds combinés cymbale/tom, d'un pied pour cymbale et d'une pince multiple pour le montage du module sonore",
+            "product_poster": "https://thumbs.static-thomann.de/thumb/thumb600x600/pics/bdb/517520/16155411_800.jpg",
+            "product_price": "7.799 €",
+            "vote_average": 9.5
+        }
+    ],
+
+    "guitar": [
+        {
+            "id": 20,
+            "original_title": "Fender Jimmy Page Mirror MBPW",
+            "second_title": "Guitare électrique",
+            "description": "Signature Jimmy Page Fabriquée par Paul Waller",
+            "product_poster": "https://www.pourlesmusiciens.com/medias/271/fender-telecaster-mirror-jimmy-page-us-rw-med-10-155190.jpg",
+            "product_price": "20.090 €",
+            "vote_average": 10.00
+        },
+        {
+            "id": 21,
+            "original_title": "Fender 59 Strat SNBo3TS Relic MBJS",
+            "second_title": "Guitare électrique",
+            "description": "Custom Shop Fabriquée par Jason Smith",
+            "product_poster": "https://thumbs.static-thomann.de/thumb/thumb600x600/pics/bdb/532449/16898311_800.jpg",
+            "product_price": "6.499 €",
+            "vote_average": 6.5
+        },
+        {
+            "id": 22,
+            "original_title": "Fender Acoustasonic Tele LH NAT",
+            "second_title": "Guitare électro-acoustique",
+            "description": "Mécaniques Fender Standard échelonnées, scellées et moulées sous pression",
+            "product_poster": "https://thumbs.static-thomann.de/thumb/thumb600x600/pics/bdb/483134/15145738_800.jpg",
+            "product_price": "1.790 €",
+            "vote_average": 9.5
+        },
+        {
+            "id": 23,
+            "original_title": "Fender PD-220E Aged Cognac Burst",
+            "second_title": "Guitare acoustique",
+            "description": "Fender guitar acoustique",
+            "product_poster": "https://thumbs.static-thomann.de/thumb/thumb600x600/pics/bdb/483134/15145738_800.jpg",
+            "product_price": "1.790 €",
+            "vote_average": 9.5
+        },
+        {
+            "id": 24,
+            "original_title": "Sandberg California II SL TM 4 Short GB",
+            "second_title": "Basse électrique à 4 cordes",
+            "description": "Fabriqué en Allemagne",
+            "product_poster": "https://thumbs.static-thomann.de/thumb/thumb600x600/pics/bdb/514830/16029853_800.jpg",
+            "product_price": "1.749 €",
+            "vote_average": 8.5
+        },
+        {
+            "id": 25,
+            "original_title": "Sandberg California VS Lionel PF CR",
+            "second_title": "Basse électrique à 4 cordes",
+            "description": "Fabriqué en Allemagne",
+            "product_poster": "https://thumbs.static-thomann.de/thumb/thumb600x600/pics/bdb/514830/16029853_800.jpg",
+            "product_price": "1.549 €",
+            "vote_average": 8.0
+        }
+    ],
+
+    "studio": [
+        {
+            "id": 20,
+            "original_title": "PSI Audio A25-M Metal Black Model 2021",
+            "second_title": "Enceinte de Monitoring",
+            "description": "Moniteur actif à 3 voies Fabriqué à la main en Suisse",
+            "product_poster": "https://thumbs.static-thomann.de/thumb/thumb600x600/pics/bdb/513898/15979499_800.jpg",
+            "product_price": "5.799 €",
+            "vote_average": 10.00
+        },
+        {
+            "id": 21,
+            "original_title": "Yamaha HS 8",
+            "second_title": "Enceinte de Monitoring",
+            "description": "Enceinte de proximité active 2 voies 8 Prix pour une enceinte",
+            "product_poster": "https://thumbs.static-thomann.de/thumb/thumb600x600/pics/bdb/313037/11627709_800.jpg",
+            "product_price": "269 € (unitaire)",
+            "vote_average": 7.5
+        },
+        {
+            "id": 22,
+            "original_title": "Neumann KH 120 A",
+            "second_title": "Enceinte de Monitoring",
+            "description": "Enceinte large bande active 2 voies 5,25",
+            "product_poster": "https://thumbs.static-thomann.de/thumb/thumb600x600/pics/bdb/255902/9951271_800.jpg",
+            "product_price": "615 € (unitaire)",
+            "vote_average": 9.0
+        },
+        {
+            "id": 22,
+            "original_title": "KRK Rokit RP7 G4",
+            "second_title": "Enceinte de Monitoring",
+            "description": "Moniteur de studio actif",
+            "product_poster": "https://thumbs.static-thomann.de/thumb/thumb600x600/pics/bdb/458021/14093722_800.jpg",
+            "product_price": "185 € (unitaire)",
+            "vote_average": 8.0
+        },
+        {
+            "id": 22,
+            "original_title": "Neumann KH 750 DSP",
+            "second_title": "Caisson de basse",
+            "description": "Caisson de basses de studio actif ",
+            "product_poster": "https://thumbs.static-thomann.de/thumb/thumb600x600/pics/bdb/458328/14018252_800.jpg",
+            "product_price": "1.425 € (unitaire)",
+            "vote_average": 8.0
+        },
+        {
+            "id": 23,
+            "original_title": "Neumann KH 750 DSP",
+            "second_title": "Caisson de basse",
+            "description": "Caisson de basses de studio actif ",
+            "product_poster": "https://thumbs.static-thomann.de/thumb/thumb600x600/pics/bdb/458328/14018252_800.jpg",
+            "product_price": "1.425 € (unitaire)",
+            "vote_average": 8.0
+        },
+        {
+            "id": 24,
+            "original_title": "Presonus Studio 26c",
+            "second_title": "Interface audio USB-C 2x4",
+            "description": "",
+            "product_poster": "https://thumbs.static-thomann.de/thumb/thumb600x600/pics/bdb/457485/14075947_800.jpg",
+            "product_price": "165 €",
+            "vote_average": 8.5
+        },
+        {
+            "id": 25,
+            "original_title": "Presonus AudioBox 96 Studio Ult 25th An",
+            "second_title": "Ensemble studio d'enregistrement",
+            "description": "",
+            "product_poster": "https://images.static-thomann.de/pics/prod/500747.jpg",
+            "product_price": "165 €",
+            "vote_average": 9.0
+        }
+    ]
+
+}
